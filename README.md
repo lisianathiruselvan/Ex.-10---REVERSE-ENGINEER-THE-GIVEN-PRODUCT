@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/lisianathiruselvan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119389971/e97867e1-82de-4604-b90a-d413799be6e2)
+
+
 ### Output:
 
+![image](https://github.com/lisianathiruselvan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119389971/534559fb-88c4-4c06-b3dd-2b672c362d07)
 
-### Name:
-### Register Number:
+### Name:T.LISIANA
+### Register Number:212222240053
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
